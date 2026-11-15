@@ -56,7 +56,7 @@ See `METHODS.md` for processing details and `LIMITATIONS.md` for unavailable sou
 
 Please cite the article above and this archive (see `CITATION.cff`):
 
-> K. S. Larionov, K. V. Petrov, A. N. Khreptugova, M. G. Zavyalova, E. N. Nikolaev, R. K. Fedorov and I. V. Perminova. Optical and FT-ICR MS signatures of dissolved organic matter from sludge-lignin at Lake Baikal (code and data), version 1.0.1. Zenodo, 2026. https://doi.org/10.5281/zenodo.24259061
+> K. S. Larionov, K. V. Petrov, A. N. Khreptugova, M. G. Zavyalova, E. N. Nikolaev, R. K. Fedorov and I. V. Perminova. Optical and FT-ICR MS signatures of dissolved organic matter from sludge-lignin at Lake Baikal (code and data), version 1.0.2. Zenodo, 2026. https://doi.org/10.5281/zenodo.24259061
 
 ## License
 

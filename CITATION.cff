@@ -2,7 +2,8 @@ cff-version: 1.2.0
 message: "If you use this code or data, please cite the associated article and this archive."
 type: software
 title: "Optical and FT-ICR MS signatures of dissolved organic matter from sludge-lignin at Lake Baikal"
-version: 1.0.1
+version: 1.0.2
+doi: 10.5281/zenodo.24259061
 license: MIT
 repository-code: https://github.com/Eickland/dom_multimodal_analysis_release
 keywords:
