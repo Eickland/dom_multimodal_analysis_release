@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the associated article and this archive."
+type: software
+title: "Optical and FT-ICR MS signatures of dissolved organic matter from sludge-lignin at Lake Baikal"
+version: 1.0.1
+license: MIT
+repository-code: https://github.com/Eickland/dom_multimodal_analysis_release
+keywords:
+  - dissolved organic matter
+  - FT-ICR MS
+  - fluorescence EEM
+  - UV-Vis
+  - Lake Baikal
+  - lignin
+  - logistic regression
+authors:
+  - family-names: "Larionov"
+    given-names: "K. S."
+    email: larionovks@my.msu.ru
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "Petrov"
+    given-names: "K. V."
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "Khreptugova"
+    given-names: "A. N."
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "Zavyalova"
+    given-names: "M. G."
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "Nikolaev"
+    given-names: "E. N."
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "Fedorov"
+    given-names: "R. K."
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "Perminova"
+    given-names: "I. V."
+    # orcid: "https://orcid.org/0000-0000-0000-0000"

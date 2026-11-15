@@ -1,6 +1,8 @@
 # Final FT-ICR MS spectra
 
-This directory contains 64 sample-level final formula lists and calibrated peak tables. The profile mzML files used for peak detection are not present in the source workspace and are therefore not included in this release. The older instrument-export lists in `data/ms/` and the newer exports in `data/ms_new/` are included as available source records.
+This directory contains 64 sample-level final formula lists and 65 calibrated peak tables (the 64 samples plus the solvent blank `BLANK_MeOH`). File names carry the instrument export suffix (e.g. `ADOM-SL1-10_000001.csv`). The profile mzML files used for peak detection are not present in the source workspace and are therefore not included in this release. The instrument assignment exports are included as available source records in `data/raw/fticr_ms_exports/`.
+
+Five of the 64 samples are not part of the 59-sample modelling cohort (`data/processed/model_inputs/sample_registry.csv`): ADOM-SL5-1, ADOM-SL5-3 and ADOM-SL7-4 (no UV-Vis or EEM export), ADOM-SL9-6 (no UV-Vis export) and ADOM-SLB-B3-2 (TODO: state reason). Their formula tables are released for completeness.
 
 ## Files
 
@@ -18,4 +20,4 @@ Peaks were detected at local S/N >= 6 using 50 Da local-noise windows and iterat
 
 Solvent-blank formulas, a predefined negative-ESI contaminant list, and polyether-like C2H4O/C3H6O series were flagged and excluded from the final formula set. Final formulas also required 0.3 <= H/C <= 2.0, O/C < 1 and O >= 1. Detailed removal counts and calibration statistics are provided in the two summary logs.
 
-The source workspace documentation referred to `scripts/final_pipeline.py` and `scripts/summarize.py`, but those two files were not present when this release was assembled. This limitation is recorded in the root data-availability document.
+The source workspace documentation referred to `scripts/final_pipeline.py` and `scripts/summarize.py`, but those two files were not present when this release was assembled. This limitation is recorded in the root `LIMITATIONS.md`.
