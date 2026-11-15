@@ -1,0 +1,14 @@
+check,passed,detail
+single 59-sample cohort,True,"registry=59, optical=59, MS=59"
+class counts,True,"{'ADOM': 51, 'Baikal': 8}"
+Baikal sites,True,"{'': 51, 'B1': 6, 'B3': 2}"
+modality ID identity,True,exact set equality
+optical missing cells documented,True,"[('ADOM-SLB-B1-4', 'B2'), ('ADOM-SLB-B1-4', 'S_380_443'), ('ADOM-SLB-B3-1', 'B2'), ('ADOM-SLB-B3-1', 'S_380_443')]"
+DOC and MS complete,True,0 missing; optical missing cells use fold-training median imputation
+AI_mod exact recomputation,True,max abs diff=8.33e-17
+explicit AI_mod name,True,['ms_global__mean_AI_mod']
+no PARAFAC,True,0 PARAFAC columns
+excluded IDs absent,True,set()
+Scheme A OOF completeness,True,rows=472
+Scheme B OOF completeness,True,rows=472
+rarefaction iterations,True,1000
