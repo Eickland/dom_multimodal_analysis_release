@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this code or data, please cite the associated article and this archive."
 type: software
-title: "Optical and FT-ICR MS signatures of dissolved organic matter from sludge-lignin at Lake Baikal"
+title: "Optical and FT-ICR MS fingerprinting of dissolved organic matter from sludge-lignin for environmental monitoring of Lake Baikal"
 version: 1.0.2
 doi: 10.5281/zenodo.24259061
 license: MIT
