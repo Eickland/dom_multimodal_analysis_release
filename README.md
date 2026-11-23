@@ -1,4 +1,4 @@
-# Optical and FT-ICR MS signatures of dissolved organic matter from sludge-lignin at Lake Baikal
+# Optical and FT-ICR MS fingerprinting of dissolved organic matter from sludge-lignin for environmental monitoring of Lake Baikal
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24259061.svg)](https://doi.org/10.5281/zenodo.24259061)
 
